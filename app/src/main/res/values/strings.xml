@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">刘睿杰2023110420</string>
+    <string name="btn_add_text">添加一行文本</string>
+    <string name="tv_area1_title">区1：动态添加TextView</string>
+    <string name="btn_query_adviser">查询程序推荐</string>
+    <string name="hint_input">输入你的需求</string>
+    <string name="result_default">等待查询结果...</string>
+    <string name="res_game">推荐：游戏开发，选用Unity引擎</string>
+    <string name="res_web">推荐：Web开发，选用SpringBoot</string>
+    <string name="res_mobile">推荐：移动端开发，Android Kotlin</string>
+    <string name="res_other">推荐：通用程序，Java基础开发</string>
+    <string name="key_game">游戏</string>
+    <string name="key_web">网页</string>
+    <string name="key_mobile">移动端</string>
+    <string-array name="project_options">
+        <item>游戏项目</item>
+        <item>网页项目</item>
+        <item>移动端APP项目</item>
+        <item>其他通用项目</item>
+    </string-array>
+</resources>
